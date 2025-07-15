@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Gulshan Shrivastava
 
-<!--
-**GulshanShrivastava/GulshanShrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Excel • Power BI • SQL | Turning data into insights
 
-Here are some ideas to get you started:
+🌱 Currently learning SQL and building real-world analytics projects.  
+📊 **My Projects:**
+- 🛒 **Retail Sales Dashboard (Power BI):** Analyzed 6 months of retail data to identify revenue trends, top products, and customer insights.
+- 📈 **Excel Sales Tracker:** Automated Excel dashboard for tracking small business sales performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Skills**
+- Excel | Power BI | SQL (Learning) | DAX | Data Visualization
+
+📫 **Let’s Connect**
+- LinkedIn: [linkedin.com/in/YOUR-LINK-HERE](#)
+- Email: gulshan@email.com
+  
