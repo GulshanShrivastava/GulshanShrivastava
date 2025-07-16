@@ -11,6 +11,6 @@
 - Excel | Power BI | SQL (Learning) | DAX | Data Visualization
 
 📫 **Let’s Connect**
-- LinkedIn: [linkedin.com/in/YOUR-LINK-HERE](#)
+- LinkedIn: https://www.linkedin.com/in/gulshan-shrivastava-18a03716b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfnU84Fv5Tric7d6funeL0A%3D%3D
 - Email: gulshans.svp@gmail.com
   
