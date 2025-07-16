@@ -12,5 +12,5 @@
 
 📫 **Let’s Connect**
 - LinkedIn: [linkedin.com/in/YOUR-LINK-HERE](#)
-- Email: gulshan@email.com
+- Email: gulshans.svp@gmail.com
   
