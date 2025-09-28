@@ -1,20 +1,42 @@
-👋 Hi, I’m Gulshan Shrivastava
+# 👋 Hi, I’m Gulshan Shrivastava
 
-🎯 **Aspiring Data Analyst** | Excel • Power BI • SQL | Turning data into actionable insights
+🎯 **Aspiring Data Analyst** | Excel • Power BI • SQL • Data Cleaning • Data Visualization
+🔍 Passionate about turning raw data into actionable business insights and data-driven decisions.
 
-🌱 Currently learning SQL and building real-world analytics projects.
+## 📊 About Me
 
-📊 **My Projects:**
+I’m an aspiring **Data Analyst** with a strong foundation in **Excel, SQL, Power BI, and data visualization**. My focus is on solving real-world business problems through **data cleaning, KPI tracking, trend analysis, dashboard building, and reporting**.
+I love transforming messy data into meaningful insights that support strategic decision-making.
 
-* 🛒 **Retail Sales Dashboard (Power BI):** Analyzed 6 months of retail data to uncover revenue trends, top-performing products, and customer insights.
-* 📈 **Excel Sales Tracker:** Automated Excel dashboard to track small business sales performance and improve decision-making.
-* 🧠 **Retail Sales Analysis (SQL):** Performed end-to-end data cleaning, KPI calculation, monthly trends, and AOV analysis using MySQL.
+## 💼 Projects
 
-🛠 **Skills**
+* 🛒 **Retail Sales Dashboard (Power BI):**
+  Designed an interactive dashboard analyzing 6 months of retail data to identify **revenue trends, top products, customer segments, and growth opportunities**.
 
-* Excel | Power BI | SQL | DAX | Data Visualization
+* 📈 **Excel Sales Tracker:**
+  Built an automated dashboard for small businesses to **track daily sales, revenue growth, product performance, and profitability**.
 
-📫 **Let’s Connect**
+* 🧠 **Retail Sales Analysis (SQL):**
+  Performed **end-to-end data cleaning, aggregation, KPI calculation, monthly revenue trend analysis, AOV (Average Order Value)** insights, and city-level revenue distribution using MySQL.
+
+## 🛠️ Technical Skills
+
+* **Data Analysis:** SQL, Excel, Power BI
+* **Data Cleaning & Transformation:** Excel, SQL
+* **Visualization & Reporting:** Power BI, Excel Dashboards
+* **Database Skills:** Writing complex queries, joins, CTEs, aggregations, subqueries
+* **Business Analytics:** KPI creation, trend analysis, customer segmentation, revenue insights
+* **Other Skills:** DAX, Pivot Tables, Data Modeling, ETL basics
+
+
+## 📈 Key Strengths
+
+* Strong analytical mindset and problem-solving skills
+* Experience working with structured data for actionable insights
+* Ability to communicate findings clearly to stakeholders
+* Passion for learning new tools and solving real-world business problems
+
+## 📬 Let’s Connect
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/gulshan-shrivastava-18a03716b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfnU84Fv5Tric7d6funeL0A%3D%3D)
 * 📧 Email: **[gulshans.svp@gmail.com](mailto:gulshans.svp@gmail.com)**
