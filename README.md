@@ -5,8 +5,19 @@
 
 ## 📊 About Me
 
-I’m an aspiring **Data Analyst** with a strong foundation in **Excel, SQL, Power BI, and data visualization**. My focus is on solving real-world business problems through **data cleaning, KPI tracking, trend analysis, dashboard building, and reporting**.
-I love transforming messy data into meaningful insights that support strategic decision-making.
+Hi, I'm Gulshan Shrivastava
+
+Data Analyst at NTT DATA with experience in Retail Analytics, KPI Reporting, Power BI, SQL, and Excel Automation.
+
+I specialize in transforming customer and operational data into actionable business insights through dashboards, reporting solutions, and analytics projects.
+
+Core Skills:
+• Power BI
+• SQL
+• Excel
+• Retail Analytics
+• KPI Reporting
+• Business Intelligence
 
 ## 💼 Projects
 
